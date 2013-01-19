@@ -27,10 +27,10 @@ include( AddFileDependencies )
 #
 
 #| Project
-project( kiibohd_controller )
+project( imada-rs232c-teensy2-hid )
 
 #| Target Name (output name)
-set( TARGET kiibohd )
+set( TARGET imada-rs232c-teensy2-hid )
 
 #| General Settings
 cmake_minimum_required( VERSION 2.8 )
